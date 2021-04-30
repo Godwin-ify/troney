@@ -1,0 +1,13 @@
+.my_button{
+    background-color: #e0a067;
+    color: #fff;
+}
+.my_button:hover{
+    background-color: #312f30;
+    color: #fff;
+}
+button:hover {
+    background-color: #312f30;
+    border: none;
+
+}
